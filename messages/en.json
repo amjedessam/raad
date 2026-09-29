@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "homeTitle": "Engineering Office in Riyadh | Eng. Raad Alomari",
+    "homeDescription": "Eng. Raad Alomari for Architectural Engineering Consultancy in Riyadh: architecture, structure, surveying, permits, interiors, and quantities.",
+    "aboutTitle": "About | Eng. Raad Alomari Engineering Consultancy",
+    "aboutDescription": "A Saudi engineering office in Riyadh delivering studies, design, and project management with quality, integrity, and commitment.",
+    "servicesTitle": "Integrated Engineering Services in Riyadh | Eng. Raad Alomari",
+    "servicesDescription": "Architectural and structural design, land survey, building permits, interiors, and BOQ from a licensed Riyadh office.",
+    "workTitle": "Work and Case Studies | Eng. Raad Alomari",
+    "workDescription": "Villas, commercial buildings, surveys, and interiors in Riyadh — case studies, not silent galleries.",
+    "blogTitle": "Engineering Journal | Eng. Raad Alomari",
+    "blogDescription": "Guides on building permits, surveying, quantities, and choosing an engineering office in Riyadh.",
+    "quoteTitle": "Request a Proposal | Eng. Raad Alomari",
+    "quoteDescription": "Request a proposal for your Riyadh project: type, area, location, and contact details.",
+    "contactTitle": "Contact | Eng. Raad Alomari — Riyadh",
+    "contactDescription": "Contact Eng. Raad Alomari: 0576421281 — amjedelieli@gmail.com — Riyadh."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "work": "Work",
+    "blog": "Journal",
+    "quote": "Request a proposal",
+    "contact": "Contact",
+    "language": "عربي"
+  },
+  "cta": {
+    "quote": "Request a proposal",
+    "whatsapp": "WhatsApp",
+    "call": "Call",
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "viewCase": "Case study",
+    "send": "Send",
+    "next": "Next",
+    "back": "Back",
+    "submit": "Submit request"
+  },
+  "hero": {
+    "eyebrow": "Licensed engineering office — Riyadh",
+    "title": "We design what can be licensed, built, and lived in.",
+    "subtitle": "Architectural and structural consultancy from brief to permit and supervision — villas, investors, private sector, and government.",
+    "image": "placeholder-hero-riyadh-architecture"
+  },
+  "aboutPreview": {
+    "eyebrow": "About",
+    "title": "An office that earns trust before it pours concrete.",
+    "body": "We deliver studies, design, and project management across typologies, in collaboration with specialist consultants worldwide — so clients in Riyadh and the Kingdom receive a calm, rigorous service."
+  },
+  "goals": {
+    "title": "Our aims",
+    "items": {
+      "excellence": { "title": "Excellence", "body": "Engineering quality that does not compromise at drawing, approval, or site." },
+      "innovation": { "title": "Innovation", "body": "Practical design that prevents costly change on site." },
+      "sustainability": { "title": "Sustainability", "body": "Architecture that respects climate, code, and operation." },
+      "community": { "title": "Community", "body": "Projects that serve family, investor, and city together." }
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Six disciplines. One path from land to handover.",
+    "subtitle": "The breadth of a full engineering office, without repeated sections or empty text cards."
+  },
+  "work": {
+    "eyebrow": "Selected work",
+    "title": "Case studies from the office archive.",
+    "subtitle": "Each project is told as challenge, method, and result — with completed-work photography.",
+    "archive": "Project gallery"
+  },
+  "partners": {
+    "eyebrow": "Partners",
+    "title": "Trust built with authorities and the market."
+  },
+  "testimonials": {
+    "eyebrow": "Clients",
+    "title": "Their experience is clearer than any slogan.",
+    "subtitle": "Testimonials reflect our commitment to precision — evidence of work, not decoration."
+  },
+  "contactBand": {
+    "eyebrow": "Contact",
+    "title": "Start with a clear file, not an open-ended chat.",
+    "body": "Request a structured proposal or message us on WhatsApp. 0576421281 — amjedelieli@gmail.com — Riyadh."
+  },
+  "aboutPage": {
+    "eyebrow": "The office",
+    "title": "Eng. Raad Alomari for Architectural Engineering Consultancy",
+    "lead": "A Saudi engineering office in Riyadh delivering studies, design, and project management across engineering disciplines.",
+    "visionTitle": "Vision",
+    "vision": "To meet the market’s need for engineering services by raising quality, and to build a durable firm through integrity and keeping our word.",
+    "missionTitle": "Mission",
+    "mission": "To be the engineering partner that turns an owner’s, investor’s, or authority’s ambition into an approved file, a buildable design, and supervision that protects quality.",
+    "teamTitle": "Team",
+    "teamSubtitle": "Names and portraits to be replaced. The structure is ready.",
+    "certsTitle": "Professional credentials",
+    "certs": [
+      "Saudi Council of Engineers — placeholder-cert-sce",
+      "Saudi Building Code — placeholder-cert-sbc",
+      "Balady / Riyadh Municipality — placeholder-cert-balady"
+    ]
+  },
+  "quote": {
+    "eyebrow": "Proposal",
+    "title": "Four questions. A sharper offer.",
+    "steps": {
+      "type": "Project type",
+      "area": "Area",
+      "location": "Location",
+      "contact": "Contact"
+    },
+    "types": {
+      "villa": "Private villa",
+      "residential": "Investment residential",
+      "commercial": "Commercial / office",
+      "interior": "Interior design",
+      "survey": "Survey / subdivision",
+      "permit": "Permits only",
+      "government": "Government entity"
+    },
+    "areaLabel": "Approximate area (sqm)",
+    "city": "City / district",
+    "name": "Name",
+    "phone": "Mobile",
+    "email": "Email",
+    "notes": "Notes",
+    "success": "Request received. We will reply within one business day.",
+    "error": "Could not send. Try WhatsApp or retry."
+  },
+  "contact": {
+    "eyebrow": "Office",
+    "title": "Riyadh",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "formTitle": "Direct message",
+    "message": "Message",
+    "success": "Message received. Thank you.",
+    "map": "Interactive office map"
+  },
+  "faq": {
+    "title": "Questions before the contract"
+  },
+  "footer": {
+    "rights": "All rights reserved, Eng. Raad Alomari for Architectural Engineering Consultancy",
+    "tagline": "Engineering that licenses and builds with clarity."
+  },
+  "placeholder": {
+    "logo": "placeholder-logo-tf",
+    "missing": "Replace with final asset"
+  },
+  "blog": {
+    "eyebrow": "Journal",
+    "title": "Writing that serves an owner’s decision, not filler SEO.",
+    "read": "Read article"
+  },
+  "workPage": {
+    "challenge": "Challenge",
+    "solution": "Approach",
+    "result": "Outcome",
+    "client": "Client",
+    "related": "Related services"
+  },
+  "notFound": {
+    "title": "This page does not exist",
+    "back": "Back home"
+  }
+}
